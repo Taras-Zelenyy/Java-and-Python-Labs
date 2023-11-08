@@ -1,0 +1,4 @@
+Computer started.
+Installing program: MS Office
+Uninstalling program: MS Office
+Computer shut down.
